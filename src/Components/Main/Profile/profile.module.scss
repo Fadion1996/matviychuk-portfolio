@@ -1,0 +1,73 @@
+@import '../../../StyledVars/vars';
+
+.profile {
+	width: auto;
+	height: 100%;
+	padding-inline-start: 80px;
+
+	.title {
+		font-size: 50px;
+		font-family: $main_font-family;
+		letter-spacing: 0;
+		text-align: left;
+		text-transform: uppercase;
+		color: #000;
+
+		a, p {
+			color: #000;
+			margin: 0;
+		}
+
+	}
+	.education {
+		margin-top: 30px;
+		.title {
+			text-align: left;
+			font-size: 20px;
+			margin-left: 2.5rem;
+		}
+		.knowledge {
+			text-align: left;
+			font-size: 20px;
+			.name, .degree, .specialization, .position, .date {
+				margin: 0;
+				color: #000;
+				font-size: 1rem;
+			}
+		}
+	}
+
+	.workExperience {
+		margin-top: 30px;
+		.title {
+			text-align: left;
+			font-size: 20px;
+			margin-left: 2.5rem;
+		}
+		.work {
+			text-align: left;
+			font-size: 20px;
+			.name, .position, .specialization, .date {
+				margin: 0;
+				color: #000;
+				font-size: 1rem;
+			}
+		}
+	}
+
+	.getInTouch {
+		font-weight: bold;
+	}
+
+	.socials {
+		display: flex;
+		justify-content: space-evenly;
+		.link {
+			color: #000;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+		}
+	}
+}

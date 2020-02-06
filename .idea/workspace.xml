@@ -1,9 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8895db4b-2ad8-4b35-b5d2-d7c68ef4d92f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Logo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Logo/logo.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Navigation/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Navigation/navigation.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/header.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/Portfolio/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/Portfolio/portfolio.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/Profile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/Profile/profile.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/main.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/NavBar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/NavBar/navbar.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/socialLinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StyledVars/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StyledVars/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X7zODqwCqbvCNSL16qMKtZIyJd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/Main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8895db4b-2ad8-4b35-b5d2-d7c68ef4d92f" name="Default Changelist" comment="" />
+      <created>1580411886639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580411886639</updated>
+      <workItem from="1580411888078" duration="4719000" />
+      <workItem from="1580485307269" duration="2507000" />
+      <workItem from="1580758033194" duration="8190000" />
+      <workItem from="1580825566681" duration="7110000" />
+      <workItem from="1580842682206" duration="507000" />
+      <workItem from="1580942400516" duration="9427000" />
+      <workItem from="1580981104348" duration="518000" />
+      <workItem from="1580981632472" duration="20000" />
+      <workItem from="1581024083612" duration="1201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#SCSS" timestamp="1580424234101">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#SCSS/0.0.1440.900@0.0.1440.900" timestamp="1580424234101" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580485844153">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1580485844153" />
+    <state x="279" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580424759029">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="279" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580424759029" />
+    <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580981108940">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981108940" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1581025481435">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1580836404233" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580942512177" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981622709" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581025481435" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1581025481433">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1580836404232" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580942512176" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981622709" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581025481433" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1581025481432">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1580836404228" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580942512175" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981622709" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581025481432" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1581025481434">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1580836404232" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580942512176" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981622709" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581025481434" />
+    <state x="397" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1580981632468">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580892018003" />
+    <state x="397" y="298" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981632468" />
+    <state x="376" y="207" width="688" height="486" key="find.popup" timestamp="1580770504126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="207" width="688" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1580770504126" />
   </component>
 </project>

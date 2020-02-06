@@ -1,0 +1,17 @@
+.logo {
+	display: flex;
+	width: 12rem;
+	height: 12rem;
+
+	.img {
+		border-radius: 50%;
+		width: 10rem;
+		height: 10rem;
+		padding: 1rem;
+		transition: all .2s ease-in-out;
+
+		&:hover {
+			transform: scale(1.1);
+		}
+	}
+}

@@ -1,0 +1,9 @@
+@import '../../StyledVars/vars';
+
+.header {
+	font-size: $header_font-size;
+	font-family: $header_font-family;
+	display: flex;
+	letter-spacing: 0.5px;
+	padding-inline-start: 80px;
+}
