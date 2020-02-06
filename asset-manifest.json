@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/matviychuk-portfolio/static/css/main.70e35f4f.chunk.css",
+    "main.js": "/matviychuk-portfolio/static/js/main.dd1d8f0a.chunk.js",
+    "main.js.map": "/matviychuk-portfolio/static/js/main.dd1d8f0a.chunk.js.map",
+    "runtime-main.js": "/matviychuk-portfolio/static/js/runtime-main.d6f2f5af.js",
+    "runtime-main.js.map": "/matviychuk-portfolio/static/js/runtime-main.d6f2f5af.js.map",
+    "static/js/2.8a373850.chunk.js": "/matviychuk-portfolio/static/js/2.8a373850.chunk.js",
+    "static/js/2.8a373850.chunk.js.map": "/matviychuk-portfolio/static/js/2.8a373850.chunk.js.map",
+    "index.html": "/matviychuk-portfolio/index.html",
+    "precache-manifest.5451eb058582868a6114b0bbddb7eacb.js": "/matviychuk-portfolio/precache-manifest.5451eb058582868a6114b0bbddb7eacb.js",
+    "service-worker.js": "/matviychuk-portfolio/service-worker.js",
+    "static/css/main.70e35f4f.chunk.css.map": "/matviychuk-portfolio/static/css/main.70e35f4f.chunk.css.map",
+    "static/js/2.8a373850.chunk.js.LICENSE": "/matviychuk-portfolio/static/js/2.8a373850.chunk.js.LICENSE",
+    "static/media/1.jpg": "/matviychuk-portfolio/static/media/1.b41f567e.jpg",
+    "static/media/10.jpg": "/matviychuk-portfolio/static/media/10.2902169e.jpg",
+    "static/media/11.jpg": "/matviychuk-portfolio/static/media/11.65b4b133.jpg",
+    "static/media/12.jpg": "/matviychuk-portfolio/static/media/12.92ae5994.jpg",
+    "static/media/13.jpg": "/matviychuk-portfolio/static/media/13.bdb6101a.jpg",
+    "static/media/2.jpg": "/matviychuk-portfolio/static/media/2.7d2c13ba.jpg",
+    "static/media/3.jpg": "/matviychuk-portfolio/static/media/3.a6f9c3c2.jpg",
+    "static/media/4.jpg": "/matviychuk-portfolio/static/media/4.e3b98e4b.jpg",
+    "static/media/5.jpg": "/matviychuk-portfolio/static/media/5.0364817b.jpg",
+    "static/media/6.jpg": "/matviychuk-portfolio/static/media/6.04173392.jpg",
+    "static/media/7.jpg": "/matviychuk-portfolio/static/media/7.90ea91d8.jpg",
+    "static/media/8.jpg": "/matviychuk-portfolio/static/media/8.12e0b85d.jpg",
+    "static/media/9.jpg": "/matviychuk-portfolio/static/media/9.259552df.jpg",
+    "static/media/nastia1.jpg": "/matviychuk-portfolio/static/media/nastia1.f69c47e0.jpg",
+    "static/media/nastia2.jpg": "/matviychuk-portfolio/static/media/nastia2.eedc23ca.jpg",
+    "static/media/nastia3.jpg": "/matviychuk-portfolio/static/media/nastia3.44543386.jpg",
+    "static/media/nastia4.jpg": "/matviychuk-portfolio/static/media/nastia4.6e70b68f.jpg",
+    "static/media/nastia5.jpg": "/matviychuk-portfolio/static/media/nastia5.ee62fed8.jpg",
+    "static/media/nastia6.jpg": "/matviychuk-portfolio/static/media/nastia6.5cb3cf10.jpg",
+    "static/media/nastia7.jpg": "/matviychuk-portfolio/static/media/nastia7.a4311f55.jpg",
+    "static/media/index.css": "/matviychuk-portfolio/static/media/texture.a0c79b62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6f2f5af.js",
+    "static/js/2.8a373850.chunk.js",
+    "static/css/main.70e35f4f.chunk.css",
+    "static/js/main.dd1d8f0a.chunk.js"
+  ]
+}
