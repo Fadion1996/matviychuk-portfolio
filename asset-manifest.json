@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/matviychuk-portfolio/static/css/main.70e35f4f.chunk.css",
-    "main.js": "/matviychuk-portfolio/static/js/main.8da5567e.chunk.js",
-    "main.js.map": "/matviychuk-portfolio/static/js/main.8da5567e.chunk.js.map",
+    "main.css": "/matviychuk-portfolio/static/css/main.cd4232a4.chunk.css",
+    "main.js": "/matviychuk-portfolio/static/js/main.410addc9.chunk.js",
+    "main.js.map": "/matviychuk-portfolio/static/js/main.410addc9.chunk.js.map",
     "runtime-main.js": "/matviychuk-portfolio/static/js/runtime-main.d6f2f5af.js",
     "runtime-main.js.map": "/matviychuk-portfolio/static/js/runtime-main.d6f2f5af.js.map",
-    "static/js/2.55e9ab96.chunk.js": "/matviychuk-portfolio/static/js/2.55e9ab96.chunk.js",
-    "static/js/2.55e9ab96.chunk.js.map": "/matviychuk-portfolio/static/js/2.55e9ab96.chunk.js.map",
+    "static/js/2.e5b6761f.chunk.js": "/matviychuk-portfolio/static/js/2.e5b6761f.chunk.js",
+    "static/js/2.e5b6761f.chunk.js.map": "/matviychuk-portfolio/static/js/2.e5b6761f.chunk.js.map",
     "index.html": "/matviychuk-portfolio/index.html",
-    "precache-manifest.9cd03e22bcb6035ee0e1758d44ac5e31.js": "/matviychuk-portfolio/precache-manifest.9cd03e22bcb6035ee0e1758d44ac5e31.js",
+    "precache-manifest.6ee930bff381e21ffab263207666d676.js": "/matviychuk-portfolio/precache-manifest.6ee930bff381e21ffab263207666d676.js",
     "service-worker.js": "/matviychuk-portfolio/service-worker.js",
-    "static/css/main.70e35f4f.chunk.css.map": "/matviychuk-portfolio/static/css/main.70e35f4f.chunk.css.map",
-    "static/js/2.55e9ab96.chunk.js.LICENSE": "/matviychuk-portfolio/static/js/2.55e9ab96.chunk.js.LICENSE",
+    "static/css/main.cd4232a4.chunk.css.map": "/matviychuk-portfolio/static/css/main.cd4232a4.chunk.css.map",
+    "static/js/2.e5b6761f.chunk.js.LICENSE": "/matviychuk-portfolio/static/js/2.e5b6761f.chunk.js.LICENSE",
     "static/media/1.jpg": "/matviychuk-portfolio/static/media/1.b41f567e.jpg",
     "static/media/10.jpg": "/matviychuk-portfolio/static/media/10.2902169e.jpg",
     "static/media/11.jpg": "/matviychuk-portfolio/static/media/11.65b4b133.jpg",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d6f2f5af.js",
-    "static/js/2.55e9ab96.chunk.js",
-    "static/css/main.70e35f4f.chunk.css",
-    "static/js/main.8da5567e.chunk.js"
+    "static/js/2.e5b6761f.chunk.js",
+    "static/css/main.cd4232a4.chunk.css",
+    "static/js/main.410addc9.chunk.js"
   ]
 }
