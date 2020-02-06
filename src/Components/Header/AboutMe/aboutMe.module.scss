@@ -1,0 +1,35 @@
+.aboutMe {
+	width: 100%;
+	direction: rtl;
+	text-align: right;
+	padding-inline-start: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	.name {
+		font-size: 1.5rem;
+		margin: .5rem 0;
+		text-decoration: underline;
+	}
+	.skills {
+		margin: 0;
+		list-style: none;
+		padding-inline-start: 20px;
+
+		li {
+			padding: .5rem;
+			cursor: default;
+			transition: all .4s ease-in-out;
+
+			&:hover {
+				transform: scale(1.2);
+			}
+
+			&:before {
+				content: "\2605";
+				padding-left: 1rem;
+			}
+		}
+	}
+}

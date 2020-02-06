@@ -2,16 +2,35 @@
 	display: flex;
 	width: 12rem;
 	height: 12rem;
+	position: relative;
+	transition: all .3s ease-in-out;
+	cursor: pointer;
+
+	.text {
+		position: absolute;
+		top: 45%;
+		text-align: center;
+		width: 100%;
+		visibility: hidden;
+		font-size: 1.5rem;
+		color: #fff;
+	}
 
 	.img {
 		border-radius: 50%;
 		width: 10rem;
 		height: 10rem;
 		padding: 1rem;
-		transition: all .2s ease-in-out;
+	}
 
-		&:hover {
-			transform: scale(1.1);
+	&:hover {
+		transform: scale(1.1);
+
+		.img {
+			opacity: .8;
+		}
+		.text {
+			visibility: visible;
 		}
 	}
 }

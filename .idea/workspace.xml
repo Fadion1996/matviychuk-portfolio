@@ -2,63 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8895db4b-2ad8-4b35-b5d2-d7c68ef4d92f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Logo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Logo/logo.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Navigation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Navigation/navigation.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/header.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Main/Portfolio/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Main/Portfolio/portfolio.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Main/Profile/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Main/Profile/profile.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Main/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Main/main.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/NavBar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/NavBar/navbar.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/portfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/socialLinks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Jobs/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StyledVars/fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StyledVars/vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/AboutMe/aboutMe.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/AboutMe/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Logo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Logo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Logo/logo.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Logo/logo.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Navigation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Navigation/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Navigation/navigation.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Navigation/navigation.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
         <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -113,6 +67,16 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -123,6 +87,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -142,7 +111,7 @@
       <workItem from="1580942400516" duration="9427000" />
       <workItem from="1580981104348" duration="518000" />
       <workItem from="1580981632472" duration="20000" />
-      <workItem from="1581024083612" duration="1201000" />
+      <workItem from="1581024083612" duration="6007000" />
     </task>
     <servers />
   </component>
@@ -169,34 +138,34 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981108940" />
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1581025481435">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1581026476606">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1580836404233" />
     <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580942512177" />
     <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981622709" />
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581025481435" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1581025481433">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581026476606" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1581026476605">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="231" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1580836404232" />
     <state width="1398" height="231" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580942512176" />
     <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981622709" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581025481433" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1581025481432">
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581026476605" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1581026476604">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="231" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1580836404228" />
     <state width="1398" height="231" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580942512175" />
     <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981622709" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581025481432" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1581025481434">
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581026476604" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1581026476605">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="231" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1580836404232" />
     <state width="1398" height="231" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580942512176" />
     <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1580981622709" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581025481434" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581026476605" />
     <state x="397" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1580981632468">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

@@ -1,24 +1,18 @@
 import React from 'react'
 import css from './navigation.module.scss'
-import {Link, BrowserRouter as Router, Route} from "react-router-dom";
-import ReactDOM from "react-dom";
+import {Link, Route} from "react-router-dom";
 
 const Navigation = () => {
     const navigation = [
         {
             id: 1,
             name: 'All work',
-            link: '/'
+            link: '/matviychuk-portfolio'
         },
         {
             id: 2,
             name: 'Profile',
-            link: '/profile'
-        },
-        {
-            id: 3,
-            name: 'News Letter',
-            link: '#'
+            link: '/matviychuk-portfolio/profile'
         },
     ];
 
@@ -35,7 +29,7 @@ const Navigation = () => {
                             )
                         }
                     />
-                    )
+                )
             }
         </ul>
     )
