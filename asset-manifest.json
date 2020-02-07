@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/matviychuk-portfolio/static/css/main.839047de.chunk.css",
-    "main.js": "/matviychuk-portfolio/static/js/main.32e3ce94.chunk.js",
-    "main.js.map": "/matviychuk-portfolio/static/js/main.32e3ce94.chunk.js.map",
+    "main.css": "/matviychuk-portfolio/static/css/main.e2bb0704.chunk.css",
+    "main.js": "/matviychuk-portfolio/static/js/main.849df519.chunk.js",
+    "main.js.map": "/matviychuk-portfolio/static/js/main.849df519.chunk.js.map",
     "runtime-main.js": "/matviychuk-portfolio/static/js/runtime-main.d6f2f5af.js",
     "runtime-main.js.map": "/matviychuk-portfolio/static/js/runtime-main.d6f2f5af.js.map",
     "static/js/2.e5b6761f.chunk.js": "/matviychuk-portfolio/static/js/2.e5b6761f.chunk.js",
     "static/js/2.e5b6761f.chunk.js.map": "/matviychuk-portfolio/static/js/2.e5b6761f.chunk.js.map",
     "index.html": "/matviychuk-portfolio/index.html",
-    "precache-manifest.68eaf36f3784c5e87c3d38622d53bb30.js": "/matviychuk-portfolio/precache-manifest.68eaf36f3784c5e87c3d38622d53bb30.js",
+    "precache-manifest.86e6056468d89d873e22dc94642ccbae.js": "/matviychuk-portfolio/precache-manifest.86e6056468d89d873e22dc94642ccbae.js",
     "service-worker.js": "/matviychuk-portfolio/service-worker.js",
-    "static/css/main.839047de.chunk.css.map": "/matviychuk-portfolio/static/css/main.839047de.chunk.css.map",
+    "static/css/main.e2bb0704.chunk.css.map": "/matviychuk-portfolio/static/css/main.e2bb0704.chunk.css.map",
     "static/js/2.e5b6761f.chunk.js.LICENSE": "/matviychuk-portfolio/static/js/2.e5b6761f.chunk.js.LICENSE",
     "static/media/1.jpg": "/matviychuk-portfolio/static/media/1.b41f567e.jpg",
     "static/media/10.jpg": "/matviychuk-portfolio/static/media/10.2902169e.jpg",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.d6f2f5af.js",
     "static/js/2.e5b6761f.chunk.js",
-    "static/css/main.839047de.chunk.css",
-    "static/js/main.32e3ce94.chunk.js"
+    "static/css/main.e2bb0704.chunk.css",
+    "static/js/main.849df519.chunk.js"
   ]
 }
