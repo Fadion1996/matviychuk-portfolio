@@ -1,3 +1,5 @@
+@import '../../../StyledVars/vars';
+
 .logo {
 	display: flex;
 	width: 12rem;
@@ -31,6 +33,25 @@
 		}
 		.text {
 			visibility: visible;
+		}
+	}
+}
+
+@media (max-width: $tablet) {
+	.logo {
+		width: 7rem;
+		height: 10rem;
+		display: flex;
+		align-items: center;
+
+		.text {
+			font-size: 1rem;
+		}
+
+		.img {
+			width: 5rem;
+			height: 5rem;
+			padding: 1rem;
 		}
 	}
 }

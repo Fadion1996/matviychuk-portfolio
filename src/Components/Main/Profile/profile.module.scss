@@ -21,7 +21,6 @@
 
 	.aboutMe, .languages, .workSkills {
 		text-align: left;
-		width: 80%;
 		padding-inline-start: 40px;
 		ul {
 			padding: 0;
@@ -34,6 +33,10 @@
 		.title {
 			font-size: 20px;
 		}
+	}
+
+	.languages, .workSkills, .workExperience, .education {
+		width: 100%;
 	}
 
 	.main {
