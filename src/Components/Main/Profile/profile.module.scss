@@ -4,6 +4,7 @@
 	width: auto;
 	height: 100%;
 	padding-inline-start: 80px;
+	padding-right: 2rem;
 
 	.title {
 		font-size: 50px;
@@ -19,7 +20,7 @@
 		}
 	}
 
-	.aboutMe, .languages, .workSkills {
+	.aboutMe, .languages, .certificates {
 		text-align: left;
 		padding-inline-start: 40px;
 		ul {
@@ -35,7 +36,7 @@
 		}
 	}
 
-	.languages, .workSkills, .workExperience, .education {
+	.languages, .certificates, .workExperience, .education {
 		width: 100%;
 	}
 

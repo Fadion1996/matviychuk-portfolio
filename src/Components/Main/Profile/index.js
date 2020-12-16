@@ -6,31 +6,18 @@ import EmailIcon from "@material-ui/icons/Email";
 import TelegramIcon from '@material-ui/icons/Telegram';
 
 const Profile = () => {
-    const {title, education, workExperience, socials, getInTouch, languages, workSkills} = profileTexts;
+    const {title, education, workExperience, socials, getInTouch, languages, aboutMe, certificates} = profileTexts;
     return (
         <div className={css.profile}>
             <div className={css.title}>
                 <p>{title.first}</p>
-                <p>{title.second}
-                    <a href={title.url} target="_blank" rel="noopener noreferrer">Freelancehunt</a>.
-                </p>
+                <p>{title.second}</p>
             </div>
             <div className={css.aboutMe}>
                 <p className={css.title}>About Me</p>
-                <p className={css.text}>
-                    Я різносторонньо розвинена особистість.
-                    Захоплююсь літературою, кіноматографом, новинками техніки, медициною, економікою, політикою,
-                    бізнесом.
-                    Компетентна в перекладі текстів на подібні тематики (багато з вищевказаних тем вивчала як окремий
-                    курс в університеті англійською мовою).
-                    Готова багато та якісно працювати. Буду рада адекватним замовникам та постійній співпраці. Чекаю на
-                    ваші пропозиції!
-                </p>
-                <p className={css.text}>
-                    Працюю на фрілансі протягом 3 років.
-                    Раніше працювала також з приватними агенствами (є досвід викладання англійської в мовній школі).
-                    Приклади робіт є в профілі.
-                </p>
+                {
+                    aboutMe.map((text,index) => <p className={css.text} key={index}>{text}</p>)
+                }
             </div>
             <div className={css.main}>
                 <div className={css.left}>
@@ -92,13 +79,13 @@ const Profile = () => {
                             }
                         </ul>
                     </div>
-                    <div className={css.workSkills}>
-                        <p className={css.title}>Work Skills</p>
+                    <div className={css.certificates}>
+                        <p className={css.title}>Certificates</p>
                         <ul>
                             {
-                                workSkills.map((skill, id) =>
+                                certificates.map((certificate, id) =>
                                     <li className={css.text} key={id}>
-                                        {skill}
+                                        <a className={css.text} href={certificate.link} target="_blank" rel="noopener noreferrer">{certificate.title}</a>
                                     </li>
                                 )
                             }

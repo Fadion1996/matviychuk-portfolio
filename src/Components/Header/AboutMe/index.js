@@ -10,6 +10,7 @@ const AboutMe = () => {
                 <li>SEO Copywriter</li>
                 <li>Content Writer</li>
                 <li>Translator</li>
+                <li>Digital marketing</li>
             </ul>
         </div>
     )
