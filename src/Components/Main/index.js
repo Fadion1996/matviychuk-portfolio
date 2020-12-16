@@ -1,24 +1,24 @@
 import React from "react";
 import Portfolio from "./Portfolio";
 import Profile from "./Profile";
-import { Switch, Route } from "react-router-dom";
+import { Route, HashRouter } from "react-router-dom";
 import css from "./main.module.scss";
 
 const Main = () => {
     //  /matviychuk-portfolio
     return (
         <div className={css.main}>
-            <Switch>
+            <HashRouter basename='/'>
                 <Route
                     exact
-                    path="/matviychuk-portfolio"
+                    path="/"
                     component={Portfolio}
                 />
                 <Route
-                    path="/matviychuk-portfolio/profile"
+                    path="/profile"
                     component={Profile}
                 />
-            </Switch>
+            </HashRouter>
         </div>
     );
 };

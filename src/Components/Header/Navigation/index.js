@@ -1,37 +1,39 @@
 import React from 'react'
 import css from './navigation.module.scss'
-import {Link, Route} from "react-router-dom";
+import {Link, HashRouter, Route} from "react-router-dom";
 
 const Navigation = () => {
     const navigation = [
         {
             id: 1,
             name: 'All work',
-            link: '/matviychuk-portfolio'
+            link: '/'
         },
         {
             id: 2,
             name: 'Profile',
-            link: '/matviychuk-portfolio/profile'
+            link: '/profile'
         },
     ];
 
     return (
-        <ul className={css.navigation}>
-            {
-                navigation.map(({id, name, link}) =>
-                    <Route path={link}
-                           key={id}
-                           children={({ match }) => (
-                                <li className={match && match.isExact ? css.active : css.item} >
-                                    <Link to={link} className={css.name}>{name}</Link>
-                                </li>
-                            )
-                        }
-                    />
-                )
-            }
-        </ul>
+        <HashRouter basename='/'>
+            <ul className={css.navigation}>
+                {
+                    navigation.map(({id, name, link}) =>
+                        <Route path={link}
+                               key={id}
+                               children={({ match }) => (
+                                    <li className={match && match.isExact ? css.active : css.item} >
+                                        <Link to={link} className={css.name}>{name}</Link>
+                                    </li>
+                                )
+                            }
+                        />
+                    )
+                }
+            </ul>
+        </HashRouter>
     )
 };
 
