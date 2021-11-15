@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8895db4b-2ad8-4b35-b5d2-d7c68ef4d92f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Nastia/nastia2.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Logo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Logo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Logo/logo.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Logo/logo.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Header/Navigation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Navigation/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Navigation/navigation.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Navigation/navigation.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Profile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Profile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Nastia/nastia2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Nastia/nastia3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Nastia/nastia4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Nastia/nastia5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Nastia/nastia6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Nastia/nastia7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +39,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1X7zODqwCqbvCNSL16qMKtZIyJd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -118,7 +140,10 @@
       <workItem from="1582707661486" duration="1000" />
       <workItem from="1585723454907" duration="1000" />
       <workItem from="1608124172327" duration="3155000" />
-      <workItem from="1608139414058" duration="1647000" />
+      <workItem from="1608139414058" duration="2068000" />
+      <workItem from="1621251177578" duration="641000" />
+      <workItem from="1621264225804" duration="62000" />
+      <workItem from="1637005105647" duration="2055000" />
     </task>
     <servers />
   </component>

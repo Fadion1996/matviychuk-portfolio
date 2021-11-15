@@ -4,8 +4,8 @@ import NavBar from "./NavBar";
 import Profile from "./Main/Profile";
 
 export {
-    Header,
-    Main,
-    NavBar,
-    Profile
+  Header,
+  Main,
+  NavBar,
+  Profile
 }
