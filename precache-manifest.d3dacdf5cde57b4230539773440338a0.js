@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1186593d5bc9e82ab476779b069c3c8b",
+    "revision": "5d5f1f026fcbea407dfebbbebf8a483a",
     "url": "/matviychuk-portfolio/index.html"
   },
   {
-    "revision": "1d8929ffadd6a2051cf7",
-    "url": "/matviychuk-portfolio/static/css/main.e3bbdc1b.chunk.css"
+    "revision": "e83b91f38f13160340c1",
+    "url": "/matviychuk-portfolio/static/css/main.30d0a107.chunk.css"
   },
   {
-    "revision": "e91d80ecfef9fea5c390",
-    "url": "/matviychuk-portfolio/static/js/2.39c0526a.chunk.js"
+    "revision": "bd60834b081abc2f106e",
+    "url": "/matviychuk-portfolio/static/js/2.5c08f03c.chunk.js"
   },
   {
     "revision": "b51e62edbcf7a9c4f4ad13f506021d3e",
-    "url": "/matviychuk-portfolio/static/js/2.39c0526a.chunk.js.LICENSE"
+    "url": "/matviychuk-portfolio/static/js/2.5c08f03c.chunk.js.LICENSE"
   },
   {
-    "revision": "1d8929ffadd6a2051cf7",
-    "url": "/matviychuk-portfolio/static/js/main.d5f9b28a.chunk.js"
+    "revision": "e83b91f38f13160340c1",
+    "url": "/matviychuk-portfolio/static/js/main.8915b6b7.chunk.js"
   },
   {
     "revision": "3d0e6a4ee7c07a5d7515",
@@ -80,28 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matviychuk-portfolio/static/media/nastia1.f69c47e0.jpg"
   },
   {
-    "revision": "eedc23ca9d8d20c264fdaccadd70e4c0",
-    "url": "/matviychuk-portfolio/static/media/nastia2.eedc23ca.jpg"
-  },
-  {
-    "revision": "445433867cc5de74eeab7e9ac4f4fab8",
-    "url": "/matviychuk-portfolio/static/media/nastia3.44543386.jpg"
-  },
-  {
-    "revision": "6e70b68f9f004ee1d9b5ce97c703bcb1",
-    "url": "/matviychuk-portfolio/static/media/nastia4.6e70b68f.jpg"
-  },
-  {
-    "revision": "ee62fed829b7842f315889d024b24d86",
-    "url": "/matviychuk-portfolio/static/media/nastia5.ee62fed8.jpg"
-  },
-  {
-    "revision": "5cb3cf1008bb30515d9020850d99897c",
-    "url": "/matviychuk-portfolio/static/media/nastia6.5cb3cf10.jpg"
-  },
-  {
-    "revision": "a4311f55c42e2cc9a2c8ecc0780c5cde",
-    "url": "/matviychuk-portfolio/static/media/nastia7.a4311f55.jpg"
+    "revision": "3b3516e183af368f9f8ca60478da50c2",
+    "url": "/matviychuk-portfolio/static/media/nastia2.3b3516e1.jpeg"
   },
   {
     "revision": "a0c79b628e080059654bab20a53c40fc",
